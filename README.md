@@ -58,13 +58,14 @@ Additional columns exist for pollutant data and disaster event details.
 
 ## Files in This Repository
 
-| File Name                                      | Description                                              |
-|------------------------------------------------|----------------------------------------------------------|
-| `Air_Emissions_and_Disaster_Displacement_Project.ipynb` | Full Jupyter Notebook with code and graphs     |
-| `merged_emissions_disasters.csv`              | Cleaned, merged dataset             |
-| `GIDDImport.json`                             | Raw IDMC displacement dataset           |
-| `OECD...csv`                                   | Raw OECD emissions dataset                               |
-| `Air Emissions and Disaster Displacement Project Report.pdf` | Summary report                        |
+| File Name | Description |
+|-----------|-------------|
+| [`Air Emissions and Disaster Displacement Project Report.pdf`](./Air%20Emissions%20and%20Disaster%20Displacement%20Project%20Report.pdf) | Summary report (PDF format) |
+| [`Air_Emissions_and_Disaster_Displacement_Project.ipynb`](./Air_Emissions_and_Disaster_Displacement_Project.ipynb) | Full Jupyter Notebook with code and visualizations |
+| [`merged_emissions_disasters.csv`](./merged_emissions_disasters.csv) | Cleaned, merged dataset (OECD + IDMC) |
+| [`GIDDImport.json`](./GIDDImport.json) | Raw IDMC displacement dataset (JSON format) |
+| [`OECD.ENV.EPI,DSD_AIR_EMISSIONS@DF_AIR_EMISSIONS,+all.csv`](./OECD.ENV.EPI,DSD_AIR_EMISSIONS@DF_AIR_EMISSIONS,+all.csv) | Raw OECD emissions dataset |
+
 
 ---
 
